@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="valbtsend">SEND</string>
+    <string name="valbtback">BACK</string>
+</resources>
